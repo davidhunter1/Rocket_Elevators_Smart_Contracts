@@ -1,10 +1,3 @@
-# Rocket_Elevators_Smart_Contracts </br>
-</br>
-</br>
-
-
-
-
 pragma solidity >=0.4.24 <0.7.0;
 contract MaterialProvider2 {
     struct Mats {
